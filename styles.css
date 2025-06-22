@@ -120,6 +120,9 @@ footer {
 }
 
 @media screen and (width <= 700px) {
+    section {
+        margin: 0 auto;
+    }
     #image {
         width: 100vw;
     }
